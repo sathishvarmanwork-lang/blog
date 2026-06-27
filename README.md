@@ -4,6 +4,7 @@ Notes on product & engineering, structured output, classification systems, and p
 
 ## Pieces
 
+- 2026-06-27 : [Why I funded a new payments product from a wallet another team owns, and how I kept the integration down to a single debit-and-refund seam](./funding-from-a-wallet-another-team-owns.md)
 - 2026-06-22 : [Why I stopped guessing the core problem my product solves, and how I now pick the wedge from evidence instead](./choosing-product-wedge-from-evidence.md)
 - 2026-06-17 : [Why I self-hosted the classifier model from day one, and how I hid the entire vendor behind a single Python file](./self-host-llm-behind-one-adapter.md)
 - 2026-06-16 : [Why I built one product as two native codebases, and how I keep Kotlin and Swift mirrored under a three-layer clean architecture](./module-boundary-strict-mirror.md)
