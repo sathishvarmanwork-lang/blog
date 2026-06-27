@@ -1,6 +1,6 @@
 # Why I funded a new payments product from a wallet another team owns, and how I kept the integration down to a single debit-and-refund seam
 
-I was building the business version of a cross-border payment product on top of an engine that already ran the consumer version. The engine did almost everything the new product needed. It held the recipient details, worked out the exchange rate and the fee, checked each payment for sanctions and money laundering, handed the payout to an overseas partner, and tracked the whole thing from sent to received. One job in that pipeline did not carry over from consumer to business, and it was the first one. Where the money comes from.
+I was building the architecture of a cross-border payment product on top of an engine that already ran the consumer version. The engine did almost everything the new product needed. It held the recipient details, worked out the exchange rate and the fee, checked each payment for sanctions and money laundering, handed the payout to an overseas partner, and tracked the whole thing from sent to received. One job in that pipeline did not carry over from consumer to business, and it was the first one. Where the money comes from.
 
 In the consumer flow the customer pays from their own wallet balance. The last step of the send is, more or less, pay from wallet balance. A business is not a person with a personal wallet. So the open question was short to write and large to answer. Where does the money come from for a business payment, and how much new machinery do I build to hold it.
 
