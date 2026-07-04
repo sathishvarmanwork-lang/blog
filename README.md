@@ -4,6 +4,7 @@ Notes on product & engineering, structured output, classification systems, and p
 
 ## Pieces
 
+- 2026-07-04 : [Why I replaced one big rulebook with small pushed skills to make an LLM follow its rules, and how I keep it honest with a two-agent check pipeline](./one-big-rulebook-to-pushed-skills.md)
 - 2026-07-02 : [Why I built the business-verification step on another team's records instead of a live registry integration, and how I now treat every reused field as unverified until I check where it came from](./reuse-is-a-promise-about-data-you-dont-own.md)
 - 2026-06-28 : [Why I built an AI-first product with no AI in the first version, and how I built its main feature with simple status rules and plain language instead of a model](./ai-first-product-no-ai-in-the-mvp.md)
 - 2026-06-27 : [Why I funded a new payments product from a wallet another team owns, and how I kept the integration down to a single debit-and-refund seam](./funding-from-a-wallet-another-team-owns.md)
