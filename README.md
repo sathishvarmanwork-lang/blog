@@ -4,6 +4,7 @@ Notes on product & engineering, structured output, classification systems, and p
 
 ## Pieces
 
+- 2026-07-18 : [Why I picked face matching over document tamper detection, and how I now check whether the training data exists before I decide anything else](./picked-face-matching-over-document-tamper-detection.md)
 - 2026-07-09 : [Why I built interim payment funding on a ledger I own instead of a connected wallet, and how I audit a dependency's spec before it becomes load-bearing](./built-interim-payment-funding-on-a-ledger-i-own.md)
 - 2026-07-04 : [Why I replaced one big rulebook with small pushed skills to make an LLM follow its rules, and how I keep it honest with a two-agent check pipeline](./one-big-rulebook-to-pushed-skills.md)
 - 2026-07-02 : [Why I built the business-verification step on another team's records instead of a live registry integration, and how I now treat every reused field as unverified until I check where it came from](./reuse-is-a-promise-about-data-you-dont-own.md)
